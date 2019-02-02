@@ -120,13 +120,13 @@ def split_data(x, y, test_size=.2):
 
 
 if __name__ == '__main__':
-    # dt_run = True
-    # knn_run = True
-    # boost_run = True
-    nn_run = False
-    dt_run = False
-    knn_run = False
-    boost_run = False
+    dt_run = True
+    knn_run = True
+    boost_run = True
+    nn_run = True
+    # dt_run = False
+    # knn_run = False
+    # boost_run = False
     # nn_run = False
     svm_run = True
     run(dt_run, knn_run, boost_run, nn_run, svm_run)
