@@ -6,3 +6,9 @@ project2/output/CONTPEAKS
 project2/output/FLIPFLOP
 project2/output/TSP
 project2/output/images_f1score
+*.log
+project3/experiments/__pycache__
+project3/output
+project3_3
+project3_no
+project3_old/.idea
